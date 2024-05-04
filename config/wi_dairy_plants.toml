@@ -1,0 +1,10 @@
+[header]
+name="WI Dairy plant license holders"
+url="https://mydatcp.wi.gov/documents/dfrs/Public_Dairy_Plant_License_Holders.csv"
+
+
+[cols_mapping]
+address="StreetAddress"
+city="City"
+state="StateZip"
+zip=""

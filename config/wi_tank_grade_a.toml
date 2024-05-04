@@ -1,0 +1,9 @@
+[header]
+name="WI bulk milk tank grade A permit holders"
+url="https://mydatcp.wi.gov/documents/dfrs/Bulk%20Milk%20Tanker%20Grade%20A%20Permit%20Holders.csv"
+
+[cols_mapping]
+address="OwnerAddress"
+city=""
+state=""
+zip=""
