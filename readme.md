@@ -32,8 +32,3 @@ Example ETL Data pipeline to extract any CSV from the web and geo encode addrese
 3) *Add API as an enviroment variable*: `export MAPBOX_API_KEY="<your API key here>"
 4) *run pipeline* - run pipeline from command line as follows where ../config/wi_dairy_permit_holders.toml is the config file to run the pipeline for:
     `python main.py ../config/wi_dairy_permit_holders.toml`
-
-
-#TODOs:
-* Make pipeline more efficient by looking for distinct addresses only and geo-encoding those, then map back to original dataset
-* implement rust version
